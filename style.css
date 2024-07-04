@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    padding:0px;
+    background-image: url(asset/img2.png);
+    color: aliceblue;
+}
+
+
+login{
+    float: inline-end;
+}
+@media screen and(max-width: 1200px){
+    h2{
+        color: aliceblue;
+    }
+
+}
+    
+
+
